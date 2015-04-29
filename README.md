@@ -6,7 +6,7 @@ Information about  AllSeen as below:
 
 1.Repository Information
 
-(1).Primary Repositories
+(1).Primary Repositories-----codes on ALLSEEN alliance
 
 The main git repositories for AllSeen Alliance projects are hosted on https://git.allseenalliance.org/
 
